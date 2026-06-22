@@ -25,5 +25,6 @@ Enter your account number.
 Follow the on-screen prompts to perform debits, credits, or transfers.
 Technologies Used
 <br>
-<b> Python 3.x
-OOP Principles </b>
+<b> Python 3.x </b>
+<br>
+<b> OOP Principles </b>
